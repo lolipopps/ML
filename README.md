@@ -1,1 +1,1 @@
-# ML
+# 机器学习常用算法/推导 以及 numpy scipy padas matplot的使用
